@@ -1,7 +1,6 @@
 Name,quantity,description ,name,price 
 TB6612FNG  motor driver,1,Motor driver to conrol the motors,https://robu.in/product/motor-driver-tb6612fng-module-performance-ultra-small-volume-3-pi-matching-performance-ultra-l298n/,$1.6
 Cligo 4WD ABS Robot Car Chassis,1,Car chassis in which all components fits,https://robu.in/product/cligo-4wd-abs-smart-robot-car-chassis/,$7.83
-,,,,
 TT Motor - 21RPM BO Motor Single Side,4,To run the car,https://robu.in/product/21rpm-bo-motor-single-side-straight-type/,$4.72
 ESP32-WROOM-32D,1,It is the brain and reciver of the car,https://robu.in/product/esp32-wroom-32d-iot-development-doard-module-for-arduino/,$7.6
 Jumper wire (M-F),30,Connect all components,https://robu.in/product/10-wire-male-to-female-jumper-wires-20cm/,$0.47
